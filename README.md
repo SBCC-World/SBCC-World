@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SmartBlockChainCity&fontSize=70&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Smart%20Block%20Chain%20City&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+  
 <br>
 <br>
 
