@@ -4,7 +4,7 @@
   
 <br>
 <br>
-
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -57,4 +57,7 @@
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBCC-World&layout=compact&theme=tokyonight)
+<br>
+<br>
+<img src="https://ghchart.rshah.org/219138/SBCC-World"/>
 </div>
