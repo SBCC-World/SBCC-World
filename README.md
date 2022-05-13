@@ -27,6 +27,12 @@
 <p align="center">
   <a href="https://twitter.com/SBCC_Blockchain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://open.kakao.com/o/gnZrrZ6d"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+  <a href="https://medium.com/@sbccblokchain"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+  <a href="https://t.me/sbcc_official"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"/></a>
+  <br>
+  <a href="https://opensea.io/collection/sbcc-collection"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=OpenSea&logoColor=white"/></a>
+  <a href="https://discord.gg/FY8T8YudAV"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCo56zfCfTVd7UHoHnDxKGcQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 </p>
 
   <h3 align="center"><a href="https://www.sbcc.world/">SBCC Website</a></h3>
