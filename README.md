@@ -35,8 +35,7 @@
   <a href="https://www.youtube.com/channel/UCo56zfCfTVd7UHoHnDxKGcQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.instagram.com/sbcc_blockchain/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
-
-  <h3 align="center"><a href="https://www.sbcc.world/">SBCC Website</a></h3>
+  <h3 align="center"><a href="https://www.sbcc.world/">|  GO TO SBCC WEBSITE  |</a></h3>
   <br>
   
 #
